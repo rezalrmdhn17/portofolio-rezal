@@ -112,7 +112,7 @@ const Hero: React.FC = () => {
               <div className="relative bg-background-secondary rounded-2xl p-6 h-[450px] overflow-hidden">
                 <div className="h-full w-full flex items-center justify-center">
                   <img
-                    src="/assets/img/2.jpeg"
+                    src="/asset/img/2.jpeg"
                     alt="Rezal Ramadhan"
                     className="rounded-xl object-cover h-full w-full"
                   />
