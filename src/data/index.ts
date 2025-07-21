@@ -33,7 +33,7 @@ export const projects: Project[] = [
     title: "Aplikasi Laundry",
     description:
       "Aplikasi full-stack berbasis web untuk manajemen laundry dengan arsitektur microservices.",
-    image: "/asset/img/aplikasi laundry.PNG",
+    image: "/asset/img/aplikasi laundry.png",
     category: "Web Development",
     technologies: ["React.js", "Node.js", "Laravel", "PostgreSQL"],
     github: "https://github.com/rezalrmdhn17/BE-FE-Laundry",
@@ -44,7 +44,7 @@ export const projects: Project[] = [
     title: "Aplikasi Manajemen Kompetisi Olahraga Sederhana",
     description:
       "Aplikasi mobile berbasis Flutter untuk komunitas pemuda desa Tunas Mandiri. Saat ini sudah mendukung fitur login dan tampilan dashboard sebagai dasar pengembangan lebih lanjut.",
-    image: "/asset/img/aplikasi-lomba.PNG",
+    image: "/asset/img/aplikasi-lomba.png",
     category: "Web Development",
     technologies: ["Java", "MySQL"],
     github: "https://github.com/rezalrmdhn17/Aplikasi-sederhana",
@@ -55,7 +55,7 @@ export const projects: Project[] = [
     title: "Desain UI/UX Aplikasi Pencarian Tim Olahraga",
     description:
       "Merancang UI/UX aplikasi untuk pencarian tim, penjadwalan sparing, dan pemesanan lapangan, dari konsep hingga prototipe di Figma.",
-    image: "/asset/img/figma-olahraga.PNG",
+    image: "/asset/img/figma-olahraga.png",
     category: "UI/UX Design",
     technologies: ["Figma", "User Flow", "Prototyping"],
     github: "",
